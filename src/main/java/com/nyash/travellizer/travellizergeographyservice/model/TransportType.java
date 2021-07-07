@@ -2,7 +2,7 @@ package com.nyash.travellizer.travellizergeographyservice.model;
 
 /**
  * Type of the station/transport/vehicle that we support in the application
- * @author NyashMyash
+ * @author Nyash
  */
 public enum TransportType {
     ROADWAY, /* for example bus*/
